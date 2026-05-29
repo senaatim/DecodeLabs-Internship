@@ -13,7 +13,7 @@ Dashboard/dashboard_screenshot.png — A high-resolution static preview of the f
 
 ---
 
-## 📋 Task 1 — Data Collection & Dataset Understanding
+## Task 1 — Data Collection & Dataset Understanding
 
 ### Dataset Profile
 The source engine consists of historical retail transaction logs capturing operational timelines between **2010 and 2012**. 
